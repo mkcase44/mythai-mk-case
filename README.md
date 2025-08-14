@@ -7,7 +7,7 @@ Throughout this assignment, three primary architectures were implemented and tes
 - A Conditional Diffusion Transformer
 - A Hierarchical Autoregressive model combining a StrokeHistoryEncoder with a cross-attention Diffusion Transformer
 
-While the models encountered significant training challenges common in this domain, such as mode collapse, and did not ultimately produce high-fidelity sketches, this report details the complete implementation and rigorous experimentation process for each approach. There is no output for any provided classes.
+While the models encountered significant training challenges common in this domain, such as mode collapse, and did not ultimately produce high-fidelity sketches, this report details the complete implementation and experimentation process for each approach. There is no output for any provided classes.
 
 ## Installation
 - Python 3.9+
